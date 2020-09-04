@@ -1,8 +1,9 @@
 # My macOS set up
 
 An single page doc that describes the apps and tools I use on macOS. I am - as of September 2020 - using a 2019 MacBook Pro 15 with a 2.4 GHz i9 CPU, 32GB RAM and a 1TB SSD. I'm running macOS 10.15.6 and, most importantly, this is my [wallpaper](https://unsplash.com/photos/0lQFV7CeghM).
-
-![](./images/wallpaper.png)
+<p align="center">
+<img src="./images/wallpaper.png"/>
+</p>
 
 ## Contents
 

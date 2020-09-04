@@ -7,7 +7,7 @@ An single page doc that describes the apps and tools I use on macOS. I am - as o
 ## Contents
 
 * [Code](#code)
-* [Communication](#communication)
+* [Communication] (#communication)
 * [Design](#design)
 * [Internet](#internet)
 * [Music](#music)
@@ -20,11 +20,15 @@ An single page doc that describes the apps and tools I use on macOS. I am - as o
 ## Code
 
 ### [Kaleidoscope](https://www.kaleidoscopeapp.com) — File and text comparison
-![](./images/kaleidoscope.png)
+<p align="center">
+<img src="./images/kaleidoscope.png" width="400"/>
+</p>
 Awesome file and text comparison tool. Easy to use and well designed. Also usable on the command line via `ksdiff` or `git difftool` (for the latter you need to follow the integration instructions).
 
 ### [Sublime Text](https://www.sublimetext.com) — Text Editor
-![](./images/sublime.png)
+<p align="center">
+    <img src="./images/sublime.png" width="400"/>
+</p>
 I used to prefer [BBEdit](https://www.barebones.com/products/bbedit/index.html) but switched to Sublime Text in 2011. Haven't tried anything else since then.
 
 * Theme: [Predawn](https://github.com/jamiewilson/predawn)
@@ -48,7 +52,9 @@ A crutch because my command line Git skills are mediocre at best. I hear [GitFox
 ## Communication
 
 ### [Hey](https://www.hey.com) — Email
-![](./images/hey.png)
+<p align="center">
+    <img src="./images/hey.png" width="400"/>
+</p>
 Hey as an idea and an email service is great. Hey as an email client is... not so good. Still early days though so looking forward to what's to come.
 
 ### [MailMate](https://freron.com) - Email Client
@@ -74,9 +80,9 @@ Meh.
 Decent diagram tool but I cannot for the life of me get it to print a diagram on an A4 bit of paper without repeatedly fiddling with the margins. I am doing something very, very wrong I fear.
 
 ### [Pixelmator](https://www.pixelmator.com/mac/) — Graphics Editor
-
-![](./images/pixelmator.png)
-
+<p align="center">
+    <img src="./images/pixelmator.png" width="400"/>
+</p>
 I've used this for years and hence haven't tried anything like Acorn or similar. Annoys me that you can't crop to the current selection. I should try Acorn or something similar.
 
 ### [IconJar](https://geticonjar.com) — Icon Browser
@@ -123,11 +129,16 @@ Alternative browser. Used for work stuff.
 ## Music
 
 ### [Fission](https://www.rogueamoeba.com/fission/) — Audio Editor
-![](./images/fission.png)
+<p align="center">
+    <img src="./images/fission.png" width="400"/>
+</p>
 Very handy audio editor. Great for splitting large audio files into multiple files (i.e. when downloading a live concert from YouTube). I do this quite often and then end up never listening to the concert. It's a compulsion, what can I say?
 
 ### [Logic Pro X](https://www.apple.com/logic-pro/) — DAW
-![](./images/logicpro.png)
+<p align="center">
+    <img src="./images/logicpro.png" width="400"/>
+</p>
+
 Apple's digital audio workstation. I spend far too much time fiddling with existing ideas as opposed to actually recording a song from start to finish. Fantastic app though. Immense fun.
 
 ### [NepTunes](https://micropixels.software/neptunes) — Last.fm scrobbler
@@ -179,8 +190,9 @@ All standard stuff. I'm happy not to use Microsoft Office as it's overkill for w
 ## Productivity
 
 ### [1Password](https://1password.com) — Password management
-
-![](./images/kiskis.png)
+<p align="center">
+    <img src="./images/kiskis.png" width="400"/>
+</p>
 
 > Keep it secret, keep it safe
 
@@ -225,27 +237,37 @@ For customised trackpad gestures e.g.:
 I recall having more than just this. I think I'm only using 1% of the capabilities of this app.
 
 ### [DaisyDisk](https://daisydiskapp.com)
-![](./images/daisydisk.png)
+<p align="center">
+    <img src="./images/daisydisk.png" width="400"/>
+</p>
 My last MacBook had only 256GB storage (I know right?) so I was forever trying to free up space. Less of a problem now.
 
 ### Dictionary
 
 I use the built-in macOS Dictionary multiple times each day via the Alfred `d` shortcut
 
-![](./images/dictionary.png)
+<p align="center">
+    <img src="./images/dictionary.png" width="400" align="center"/>
+</p>
 
 ### [Fantastical](https://flexibits.com/fantastical) — Calendar
-![](./images/fantastical.png)
+<p align="center">
+    <img src="./images/fantastical.png" width="400"/>
+</p>
 Fantastic (sorry) calendar app supporting iCloud, Google and Outlook calendars.
 
 ### [OmniFocus](https://www.omnigroup.com/omnifocus) — Task manager
-![](./images/omnifocus.png)
+<p align="center">
+    <img src="./images/omnifocus.png" width="400"/>
+</p>
 The best task manager hands down. Slight caveat: I haven't tried any others. Also see my other [musings on OmniFocus](https://rhydlewis.net/tags/#omnifocus).
 
 > Note, as of writing, the replacement part for Ludwig floor tom still hasn't arrived. This is frustrating.
 
 ### [Text Expander](https://textexpander.com) — Text expansion
-![](./images/textexpander.png)
+<p align="center">
+    <img src="./images/textexpander.png" width="400"/>
+</p>
 Useful short cuts to save typing time. For example, typing:
 
 * `jjc` ⇒ a plain-text version of whatever's in the clipboard (I know ⌘-⇧-V achieves the same result but I prefer this shortcut instead) - **incredible!**
@@ -292,7 +314,9 @@ Bit of a clunky app but it's easy to edit videos which is really all I need to d
 
 ### [Bear](https://www.notion.so/) — Note taking
 
-![](./images/bear.png)
+<p align="center">
+    <img src="./images/bear.png" width="400"/>
+</p>
 
 Well-designed, Markdown style note taking app. Ideas, lists and other assorted stuff goes in here. I should probably move everything from Bear into Notion or vice versa. Can't decide.
 
@@ -302,7 +326,9 @@ I go through phases of capturing my thoughts on a regular basis then a semi-regu
 
 ### [iThoughtsX](https://www.toketaware.com/ithoughts-osx) — Mind mapping
 
-![](./images/ithoughts.png)
+<p align="center">
+    <img src="./images/ithoughts.png" width="400"/>
+</p>
 
 I don't know about you but I bloody _love_ a mind map. If I'm struggling to write something or come up with some possible solutions for a problem, I use this app to help me associate and arrange ideas visually.
 
@@ -312,7 +338,9 @@ I write most of my notes in [Markdown](https://daringfireball.net/projects/markd
 
 ### [Notion](https://www.notion.so/) — Note taking
 
-![](./images/notion.png)
+<p align="center">
+    <img src="./images/notion.png" width="400"/>
+</p>
 
 My day-to-day note taking and reference app. I'm sure it can do more than I use it for. Not overly keen on the way each block has it's own ID as this means normal text editing shortcuts don't always work. Also, the built in tables are a load of old claptrap. I like that you can split content into sections (something that [Bear](#bear) doesn't do so well).
 

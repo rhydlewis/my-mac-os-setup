@@ -8,7 +8,7 @@ An single page doc that describes the apps and tools I use on macOS. I am - as o
 ## Contents
 
 * [Code](#code)
-* [Communication] (#communication)
+* [Communication](#communication)
 * [Design](#design)
 * [Internet](#internet)
 * [Music](#music)
